@@ -24,7 +24,7 @@ We used a Hidden Markov Model (HMM) to split roughly 1,500 trading days of retur
 
 The chart we found most informative is the rolling backtest — comparing each method's VaR99 estimate against the realised equal-weight portfolio return across 1,247 trading days from January 2023 to May 2026.
 
-![Rolling backtest](rmt_full_analysis.png)
+
 <img width="804" height="209" alt="backtesting" src="https://github.com/user-attachments/assets/cef6e1b2-05fc-4820-8206-c81f6506cfe1" />
 
 
@@ -73,7 +73,7 @@ It's worth being clear about the black crosses on the chart: the April 2024 Iran
 
 LlamaRisk uses a 60-day TVL moving average to set liquidity-based debt ceilings for Pendle PT collateral. We built a cross-market liquidity covariance matrix across six active PT stablecoin pools and found a correlation of **−0.45** between USDG and reUSD — their TVLs moved in opposite directions over the study period, consistent with capital rotating from one pool into the other.
 
-![PT liquidity analysis](pt_liquidity_analysis.png)
+
 <img width="2274" height="1589" alt="pt_liquidity_analysis" src="https://github.com/user-attachments/assets/35840c53-44db-434d-a6d5-e65a45f75dd5" />
 
 
