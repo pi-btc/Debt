@@ -131,4 +131,4 @@ Replication code available in this repository. This is exploratory analysis — 
 
 ## References
 
-[1] LlamaRisk (2025). *Debt Ceiling Methodology*. https://llamarisk.com/research/debt-ceiling-methdology<img width="804" height="209" alt="backtesting" src="https://github.com/user-attachments/assets/6bc41c3b-230e-4050-b269-c32a8faea607" />
+[1] LlamaRisk (2025). *Debt Ceiling Methodology*. https://llamarisk.com/research/debt-ceiling-methdology
