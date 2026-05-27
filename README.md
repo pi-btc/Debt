@@ -1,4 +1,4 @@
-# Two Supplementary Observations on LlamaRisk's Debt Ceiling Methodology
+# [Research] Two Supplementary Observations on LlamaRisk's Debt Ceiling Methodology
 
 > **May 08 2026 · Feedback and corrections welcome**
 
