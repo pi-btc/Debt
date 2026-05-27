@@ -1,6 +1,6 @@
 # Two Supplementary Observations on LlamaRisk's Debt Ceiling Methodology
 
-> **May 2026 · Feedback and corrections welcome**
+> **May 08 2026 · Feedback and corrections welcome**
 
 LlamaRisk's debt ceiling methodology [[1]](https://llamarisk.com/research/debt-ceiling-methdology) is one of the most systematic pieces of risk management work in the Aave ecosystem. While studying the report, we attempted some supplementary analysis on top of their framework and found two things that might be worth discussing. We're sharing them here for community feedback — criticism of the methodology is very much welcome.
 
